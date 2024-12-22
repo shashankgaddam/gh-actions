@@ -6,6 +6,8 @@ import './index.css';
 
 // This is important
 
+// The render starts here for the app
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
